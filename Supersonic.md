@@ -45,13 +45,16 @@ l1: I felt your arms twisting around me
 c1: F                  Am                   G
 l1: I should've slept with one eye open at night
 
-## Chorus
 
 ---
-chords:
-  Gdim:
-    - o3 b1,4,3 n2,4 n3,5 m5 m6
+## chords
+##   Gdim
+ - o3 b1,4,3 n2,4 n3,5 m5 m6
 ---
+
+
+## Chorus
+
 
 
 
