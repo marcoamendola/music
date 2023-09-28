@@ -2,8 +2,12 @@
 youTubeId: Oq4nEzEiegA
 ---
 
-
 # Supersonic - Oasis
+
+
+Intro |  
+Verse | Verse | Bridge | Chorus | Solo |  
+Verse | Verse | Bridge | Chorus | Outro (solo fadeout)  
 
 ## Intro
 
